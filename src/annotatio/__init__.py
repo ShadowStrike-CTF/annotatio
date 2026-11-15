@@ -1,3 +1,3 @@
-# Annotatio — Legal annotation and notes layer — Strategos Suite
+# Annotatio — Strategos tool. Coming soon.
 # © 2026 Strategos Pty Ltd. All rights reserved.
 # Aut Viam Inveniam Aut Faciam

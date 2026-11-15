@@ -8,7 +8,7 @@ build-backend = "hatchling.build"
 [project]
 name = "annotatio"
 version = "0.0.1"
-description = "Legal annotation and notes layer — Disciplina. by Strategos."
+description = "Strategos tool. Coming soon."
 readme = "README.md"
 license = {text = "Proprietary"}
 authors = [
