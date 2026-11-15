@@ -1,6 +1,6 @@
 # Annotatio
 
-Legal annotation and notes layer — Disciplina. by Strategos.
+Strategos tool. Coming soon.
 
 GitHub: https://github.com/ShadowStrike-CTF/annotatio
 
